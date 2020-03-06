@@ -1,6 +1,6 @@
 # NekopoiAndroid-build
 
-Current build: [1.0-beta.200215](https://github.com/nana-desu/NekopoiAndroid-build/releases)
+Current build: [1.0-beta.200307](https://github.com/nana-desu/NekopoiAndroid-build/releases)
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss1.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss2.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss3.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss4.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss5.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss6.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss7.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss8.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss9.png" width="150px"> <img src="https://raw.githubusercontent.com/nana-desu/NekopoiAndroid-build/master/image/ss10.png" width="150px">
